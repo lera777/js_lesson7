@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
         {'лето' : 'одень футболку и шорты'},
         {'осень' : 'одень куртку и штаны'},
         {'зима' : 'одень шубу и теплые штаны'},
-        {'весна' : 'одень ветровку и джинсы'},
+        {'весна' : 'одень ветровку и джинсы'}
     ]
 
     const selectList = document.createElement('select'); // create select
